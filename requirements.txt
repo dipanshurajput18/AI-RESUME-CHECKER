@@ -6,3 +6,4 @@ spacy
 python-docx
 pdfplumber
 nltk
+PyPDF2
